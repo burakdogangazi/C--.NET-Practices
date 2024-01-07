@@ -1,0 +1,10 @@
+C:\Users\Burak\source\repos\RecapDama1\RecapDama1\bin\Debug\RecapDama1.exe.config
+C:\Users\Burak\source\repos\RecapDama1\RecapDama1\bin\Debug\RecapDama1.exe
+C:\Users\Burak\source\repos\RecapDama1\RecapDama1\bin\Debug\RecapDama1.pdb
+C:\Users\Burak\source\repos\RecapDama1\RecapDama1\obj\Debug\RecapDama1.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\RecapDama1\RecapDama1\obj\Debug\RecapDama1.Form1.resources
+C:\Users\Burak\source\repos\RecapDama1\RecapDama1\obj\Debug\RecapDama1.Properties.Resources.resources
+C:\Users\Burak\source\repos\RecapDama1\RecapDama1\obj\Debug\RecapDama1.csproj.GenerateResource.cache
+C:\Users\Burak\source\repos\RecapDama1\RecapDama1\obj\Debug\RecapDama1.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\RecapDama1\RecapDama1\obj\Debug\RecapDama1.exe
+C:\Users\Burak\source\repos\RecapDama1\RecapDama1\obj\Debug\RecapDama1.pdb

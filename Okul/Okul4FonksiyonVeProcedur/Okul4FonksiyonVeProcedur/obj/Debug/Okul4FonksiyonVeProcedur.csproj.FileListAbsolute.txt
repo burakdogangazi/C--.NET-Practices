@@ -1,0 +1,7 @@
+C:\Users\Burak\source\repos\Okul4FonksiyonVeProcedur\Okul4FonksiyonVeProcedur\bin\Debug\Okul4FonksiyonVeProcedur.exe.config
+C:\Users\Burak\source\repos\Okul4FonksiyonVeProcedur\Okul4FonksiyonVeProcedur\bin\Debug\Okul4FonksiyonVeProcedur.exe
+C:\Users\Burak\source\repos\Okul4FonksiyonVeProcedur\Okul4FonksiyonVeProcedur\bin\Debug\Okul4FonksiyonVeProcedur.pdb
+C:\Users\Burak\source\repos\Okul4FonksiyonVeProcedur\Okul4FonksiyonVeProcedur\obj\Debug\Okul4FonksiyonVeProcedur.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\Okul4FonksiyonVeProcedur\Okul4FonksiyonVeProcedur\obj\Debug\Okul4FonksiyonVeProcedur.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\Okul4FonksiyonVeProcedur\Okul4FonksiyonVeProcedur\obj\Debug\Okul4FonksiyonVeProcedur.exe
+C:\Users\Burak\source\repos\Okul4FonksiyonVeProcedur\Okul4FonksiyonVeProcedur\obj\Debug\Okul4FonksiyonVeProcedur.pdb

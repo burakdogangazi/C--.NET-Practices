@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<Kullanicilar>
+	
+	<Kullanici ad="Salih" telefon ="3132312" mail ="salih@gmail.net"/>
+	<Kullanici ad="Salihasd" telefon ="3132123312" mail ="salih4@gmail.com"/>
+	<Kullanici ad="Salihdasd" telefon ="313312" mail ="sali3h@gmail.com"/>
+	<Kullanici ad="ghghfh" telefon ="31322" mail ="sali12h@gmail.com"/>
+	<Kullanici ad="Salifghgfhh" telefon ="32312" mail ="salih7@gmail.com"/>
+	<Kullanici ad="Salukluih" telefon ="32312" mail ="salih6@gmail.com"/>
+	<Kullanici ad="Salıluıih" telefon ="332312" mail ="sali3h@abc.com"/>
+	<Kullanici ad="Saghjghlih" telefon ="32312" mail ="sali21h@gmail.com"/>
+	
+	
+</Kullanicilar>

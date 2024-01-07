@@ -1,0 +1,14 @@
+C:\Users\Burak\source\repos\AssemblyLevelUnitTest\AssemblyLevelUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Burak\source\repos\AssemblyLevelUnitTest\AssemblyLevelUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Burak\source\repos\AssemblyLevelUnitTest\AssemblyLevelUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Burak\source\repos\AssemblyLevelUnitTest\AssemblyLevelUnitTest\bin\Debug\AssemblyLevelUnitTest.dll
+C:\Users\Burak\source\repos\AssemblyLevelUnitTest\AssemblyLevelUnitTest\bin\Debug\AssemblyLevelUnitTest.pdb
+C:\Users\Burak\source\repos\AssemblyLevelUnitTest\AssemblyLevelUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Burak\source\repos\AssemblyLevelUnitTest\AssemblyLevelUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Burak\source\repos\AssemblyLevelUnitTest\AssemblyLevelUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Burak\source\repos\AssemblyLevelUnitTest\AssemblyLevelUnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Burak\source\repos\AssemblyLevelUnitTest\AssemblyLevelUnitTest\obj\Debug\AssemblyLevelUnitTest.csproj.AssemblyReference.cache
+C:\Users\Burak\source\repos\AssemblyLevelUnitTest\AssemblyLevelUnitTest\obj\Debug\AssemblyLevelUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\AssemblyLevelUnitTest\AssemblyLevelUnitTest\obj\Debug\AssemblyLevelUnitTest.csproj.CopyComplete
+C:\Users\Burak\source\repos\AssemblyLevelUnitTest\AssemblyLevelUnitTest\obj\Debug\AssemblyLevelUnitTest.dll
+C:\Users\Burak\source\repos\AssemblyLevelUnitTest\AssemblyLevelUnitTest\obj\Debug\AssemblyLevelUnitTest.pdb

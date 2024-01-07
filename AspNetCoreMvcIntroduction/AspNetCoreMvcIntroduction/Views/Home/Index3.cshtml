@@ -1,0 +1,34 @@
+﻿@model AspNetCoreMvcIntroduction.Models.EmployeeListViewModel
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index3</title>
+</head>
+
+<body>
+    <!-- IEnumarable olduğu için .Employees göremeyebilir-->
+    @foreach (var item in Model.Employees ) // model employee tipinde gelecek bir şeyi dön
+    {
+        @item.FirstName
+        <br>
+
+        <!--https://localhost:44325/home/index3-->
+    }
+
+    <!-- Razor dinamik yapılar ile html sitesi kurmaya işimize yarar.-->
+
+    
+
+
+</body>
+
+
+
+</html>

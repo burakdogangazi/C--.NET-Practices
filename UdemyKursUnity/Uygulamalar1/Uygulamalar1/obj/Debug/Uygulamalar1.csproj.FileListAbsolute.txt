@@ -1,0 +1,7 @@
+C:\Users\Burak\source\repos\Uygulamalar1\Uygulamalar1\bin\Debug\Uygulamalar1.exe.config
+C:\Users\Burak\source\repos\Uygulamalar1\Uygulamalar1\bin\Debug\Uygulamalar1.exe
+C:\Users\Burak\source\repos\Uygulamalar1\Uygulamalar1\bin\Debug\Uygulamalar1.pdb
+C:\Users\Burak\source\repos\Uygulamalar1\Uygulamalar1\obj\Debug\Uygulamalar1.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\Uygulamalar1\Uygulamalar1\obj\Debug\Uygulamalar1.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\Uygulamalar1\Uygulamalar1\obj\Debug\Uygulamalar1.exe
+C:\Users\Burak\source\repos\Uygulamalar1\Uygulamalar1\obj\Debug\Uygulamalar1.pdb

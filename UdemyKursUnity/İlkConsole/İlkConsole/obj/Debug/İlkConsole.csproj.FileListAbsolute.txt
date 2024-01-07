@@ -1,0 +1,7 @@
+C:\Users\Burak\source\repos\İlkConsole\İlkConsole\bin\Debug\İlkConsole.exe.config
+C:\Users\Burak\source\repos\İlkConsole\İlkConsole\bin\Debug\İlkConsole.exe
+C:\Users\Burak\source\repos\İlkConsole\İlkConsole\bin\Debug\İlkConsole.pdb
+C:\Users\Burak\source\repos\İlkConsole\İlkConsole\obj\Debug\İlkConsole.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\İlkConsole\İlkConsole\obj\Debug\İlkConsole.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\İlkConsole\İlkConsole\obj\Debug\İlkConsole.exe
+C:\Users\Burak\source\repos\İlkConsole\İlkConsole\obj\Debug\İlkConsole.pdb

@@ -1,0 +1,2 @@
+C:\Users\Burak\source\repos\C#Yeni\UnitTest\StringHelpers.Tests\obj\Debug\StringHelpers.Tests.csproj.AssemblyReference.cache
+C:\Users\Burak\source\repos\C#Yeni\UnitTest\StringHelpers.Tests\obj\Debug\StringHelpers.Tests.csproj.CoreCompileInputs.cache

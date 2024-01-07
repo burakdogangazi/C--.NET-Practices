@@ -1,0 +1,15 @@
+C:\Users\Burak\source\repos\C#Yeni\EntityFramework21\EntityFramework21\bin\Debug\EntityFramework21.exe.config
+C:\Users\Burak\source\repos\C#Yeni\EntityFramework21\EntityFramework21\bin\Debug\EntityFramework21.exe
+C:\Users\Burak\source\repos\C#Yeni\EntityFramework21\EntityFramework21\bin\Debug\EntityFramework21.pdb
+C:\Users\Burak\source\repos\C#Yeni\EntityFramework21\EntityFramework21\bin\Debug\EntityFramework.dll
+C:\Users\Burak\source\repos\C#Yeni\EntityFramework21\EntityFramework21\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Burak\source\repos\C#Yeni\EntityFramework21\EntityFramework21\bin\Debug\EntityFramework.xml
+C:\Users\Burak\source\repos\C#Yeni\EntityFramework21\EntityFramework21\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Burak\source\repos\C#Yeni\EntityFramework21\EntityFramework21\obj\Debug\EntityFramework21.csproj.AssemblyReference.cache
+C:\Users\Burak\source\repos\C#Yeni\EntityFramework21\EntityFramework21\obj\Debug\EntityFramework21.Form1.resources
+C:\Users\Burak\source\repos\C#Yeni\EntityFramework21\EntityFramework21\obj\Debug\EntityFramework21.Properties.Resources.resources
+C:\Users\Burak\source\repos\C#Yeni\EntityFramework21\EntityFramework21\obj\Debug\EntityFramework21.csproj.GenerateResource.cache
+C:\Users\Burak\source\repos\C#Yeni\EntityFramework21\EntityFramework21\obj\Debug\EntityFramework21.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\C#Yeni\EntityFramework21\EntityFramework21\obj\Debug\EntityFramework21.csproj.CopyComplete
+C:\Users\Burak\source\repos\C#Yeni\EntityFramework21\EntityFramework21\obj\Debug\EntityFramework21.exe
+C:\Users\Burak\source\repos\C#Yeni\EntityFramework21\EntityFramework21\obj\Debug\EntityFramework21.pdb

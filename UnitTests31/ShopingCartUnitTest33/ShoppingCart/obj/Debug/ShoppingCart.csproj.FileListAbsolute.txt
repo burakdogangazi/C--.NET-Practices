@@ -1,0 +1,6 @@
+C:\Users\Burak\source\repos\ShopingCartUnitTest\ShoppingCart\bin\Debug\ShoppingCart.exe.config
+C:\Users\Burak\source\repos\ShopingCartUnitTest\ShoppingCart\bin\Debug\ShoppingCart.exe
+C:\Users\Burak\source\repos\ShopingCartUnitTest\ShoppingCart\bin\Debug\ShoppingCart.pdb
+C:\Users\Burak\source\repos\ShopingCartUnitTest\ShoppingCart\obj\Debug\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\ShopingCartUnitTest\ShoppingCart\obj\Debug\ShoppingCart.exe
+C:\Users\Burak\source\repos\ShopingCartUnitTest\ShoppingCart\obj\Debug\ShoppingCart.pdb

@@ -1,0 +1,7 @@
+C:\Users\Burak\source\repos\ÖdevSoru\ÖdevSoru\bin\Debug\ÖdevSoru.exe.config
+C:\Users\Burak\source\repos\ÖdevSoru\ÖdevSoru\bin\Debug\ÖdevSoru.exe
+C:\Users\Burak\source\repos\ÖdevSoru\ÖdevSoru\bin\Debug\ÖdevSoru.pdb
+C:\Users\Burak\source\repos\ÖdevSoru\ÖdevSoru\obj\Debug\ÖdevSoru.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\ÖdevSoru\ÖdevSoru\obj\Debug\ÖdevSoru.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\ÖdevSoru\ÖdevSoru\obj\Debug\ÖdevSoru.exe
+C:\Users\Burak\source\repos\ÖdevSoru\ÖdevSoru\obj\Debug\ÖdevSoru.pdb

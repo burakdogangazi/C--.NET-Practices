@@ -1,0 +1,7 @@
+C:\Users\Burak\source\repos\UdemyKurs\asdasda\asdasda\bin\Debug\asdasda.exe.config
+C:\Users\Burak\source\repos\UdemyKurs\asdasda\asdasda\bin\Debug\asdasda.exe
+C:\Users\Burak\source\repos\UdemyKurs\asdasda\asdasda\bin\Debug\asdasda.pdb
+C:\Users\Burak\source\repos\UdemyKurs\asdasda\asdasda\obj\Debug\asdasda.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\UdemyKurs\asdasda\asdasda\obj\Debug\asdasda.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\UdemyKurs\asdasda\asdasda\obj\Debug\asdasda.exe
+C:\Users\Burak\source\repos\UdemyKurs\asdasda\asdasda\obj\Debug\asdasda.pdb

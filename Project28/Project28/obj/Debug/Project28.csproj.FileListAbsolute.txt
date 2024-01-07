@@ -1,0 +1,15 @@
+C:\Users\Burak\source\repos\Project28\Project28\bin\Debug\Project28.exe.config
+C:\Users\Burak\source\repos\Project28\Project28\bin\Debug\Project28.exe
+C:\Users\Burak\source\repos\Project28\Project28\bin\Debug\Project28.pdb
+C:\Users\Burak\source\repos\Project28\Project28\obj\Debug\Project28.csproj.AssemblyReference.cache
+C:\Users\Burak\source\repos\Project28\Project28\obj\Debug\Project28.Properties.Resources.resources
+C:\Users\Burak\source\repos\Project28\Project28\obj\Debug\Project28.csproj.GenerateResource.cache
+C:\Users\Burak\source\repos\Project28\Project28\obj\Debug\Project28.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\Project28\Project28\obj\Debug\Project28.exe
+C:\Users\Burak\source\repos\Project28\Project28\obj\Debug\Project28.pdb
+C:\Users\Burak\source\repos\Project28\Project28\obj\Debug\Project28.Dashboard.resources
+C:\Users\Burak\source\repos\Project28\Project28\bin\Debug\EntityFramework.dll
+C:\Users\Burak\source\repos\Project28\Project28\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Burak\source\repos\Project28\Project28\bin\Debug\EntityFramework.xml
+C:\Users\Burak\source\repos\Project28\Project28\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Burak\source\repos\Project28\Project28\obj\Debug\Project28.csproj.CopyComplete

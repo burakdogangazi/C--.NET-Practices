@@ -1,0 +1,7 @@
+C:\Users\Burak\source\repos\Okul2AritmetikOperatörler\Okul2AritmetikOperatörler\bin\Debug\Okul2AritmetikOperatörler.exe.config
+C:\Users\Burak\source\repos\Okul2AritmetikOperatörler\Okul2AritmetikOperatörler\bin\Debug\Okul2AritmetikOperatörler.exe
+C:\Users\Burak\source\repos\Okul2AritmetikOperatörler\Okul2AritmetikOperatörler\bin\Debug\Okul2AritmetikOperatörler.pdb
+C:\Users\Burak\source\repos\Okul2AritmetikOperatörler\Okul2AritmetikOperatörler\obj\Debug\Okul2AritmetikOperatörler.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\Okul2AritmetikOperatörler\Okul2AritmetikOperatörler\obj\Debug\Okul2AritmetikOperatörler.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\Okul2AritmetikOperatörler\Okul2AritmetikOperatörler\obj\Debug\Okul2AritmetikOperatörler.exe
+C:\Users\Burak\source\repos\Okul2AritmetikOperatörler\Okul2AritmetikOperatörler\obj\Debug\Okul2AritmetikOperatörler.pdb

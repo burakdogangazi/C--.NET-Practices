@@ -1,0 +1,5 @@
+C:\Users\Burak\source\repos\C#Yeni\NLayeredApp29\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.AssemblyReference.cache
+C:\Users\Burak\source\repos\C#Yeni\NLayeredApp29\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.Form1.resources
+C:\Users\Burak\source\repos\C#Yeni\NLayeredApp29\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.Properties.Resources.resources
+C:\Users\Burak\source\repos\C#Yeni\NLayeredApp29\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.GenerateResource.cache
+C:\Users\Burak\source\repos\C#Yeni\NLayeredApp29\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.CoreCompileInputs.cache

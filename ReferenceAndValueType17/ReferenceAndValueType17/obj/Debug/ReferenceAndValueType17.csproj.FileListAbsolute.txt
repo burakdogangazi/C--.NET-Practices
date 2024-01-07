@@ -1,0 +1,7 @@
+C:\Users\Burak\source\repos\ReferenceAndValueType17\ReferenceAndValueType17\bin\Debug\ReferenceAndValueType17.exe.config
+C:\Users\Burak\source\repos\ReferenceAndValueType17\ReferenceAndValueType17\bin\Debug\ReferenceAndValueType17.exe
+C:\Users\Burak\source\repos\ReferenceAndValueType17\ReferenceAndValueType17\bin\Debug\ReferenceAndValueType17.pdb
+C:\Users\Burak\source\repos\ReferenceAndValueType17\ReferenceAndValueType17\obj\Debug\ReferenceAndValueType17.csproj.AssemblyReference.cache
+C:\Users\Burak\source\repos\ReferenceAndValueType17\ReferenceAndValueType17\obj\Debug\ReferenceAndValueType17.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\ReferenceAndValueType17\ReferenceAndValueType17\obj\Debug\ReferenceAndValueType17.exe
+C:\Users\Burak\source\repos\ReferenceAndValueType17\ReferenceAndValueType17\obj\Debug\ReferenceAndValueType17.pdb

@@ -1,0 +1,18 @@
+Birim testi genellikle küçük taraflı ve integrasyon testlerin bütünlük için yapılır.
+
+Birim testleri yazılım yanlış oluşturduğunda integration test dönüşür çünkü bütün katmanlar birbirleriyle bağlantılırdır
+Dependency Injection umursamadan yazarsak unit test dal hatası verir integration teste doğru kayıyor
+veritabanına bakıyor ve kayıt değiştiyse artık hata verir.
+
+Unit Testi Code yazarken yazılmalıdır.
+
+İş katmanı ve UI test yazılması yeterlidir.
+
+DemoBusiness içine klasör ekleyip içine ManagerTest klasörü oluşuturp unit test kurulunabilir
+
+Asıl teknik Test first development tır  Yani teste göre code yazılır biz hep önce kod sonra test
+yazdık ama doğrusu ilk test ona göre kodun şekillenmesidir
+3'e ayrılır
+1- Red fail olacak test yazılır.
+2-  Green Testi geçecek en basit kod yazılır.
+3- Refactor test chaselerini geçecek code yazılmaya başlar.

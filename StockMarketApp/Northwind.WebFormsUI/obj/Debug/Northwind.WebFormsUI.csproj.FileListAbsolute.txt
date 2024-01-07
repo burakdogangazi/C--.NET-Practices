@@ -1,0 +1,10 @@
+C:\Users\Burak\source\repos\StockMarketApp\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.exe.config
+C:\Users\Burak\source\repos\StockMarketApp\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.exe
+C:\Users\Burak\source\repos\StockMarketApp\Northwind.WebFormsUI\bin\Debug\Northwind.WebFormsUI.pdb
+C:\Users\Burak\source\repos\StockMarketApp\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\StockMarketApp\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.Form1.resources
+C:\Users\Burak\source\repos\StockMarketApp\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.Properties.Resources.resources
+C:\Users\Burak\source\repos\StockMarketApp\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.GenerateResource.cache
+C:\Users\Burak\source\repos\StockMarketApp\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\StockMarketApp\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.exe
+C:\Users\Burak\source\repos\StockMarketApp\Northwind.WebFormsUI\obj\Debug\Northwind.WebFormsUI.pdb

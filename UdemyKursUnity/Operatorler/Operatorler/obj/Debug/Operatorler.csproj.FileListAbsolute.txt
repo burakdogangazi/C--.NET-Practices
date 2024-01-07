@@ -1,0 +1,6 @@
+C:\Users\Burak\source\repos\Operatorler\Operatorler\bin\Debug\Operatorler.exe.config
+C:\Users\Burak\source\repos\Operatorler\Operatorler\bin\Debug\Operatorler.exe
+C:\Users\Burak\source\repos\Operatorler\Operatorler\bin\Debug\Operatorler.pdb
+C:\Users\Burak\source\repos\Operatorler\Operatorler\obj\Debug\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\Operatorler\Operatorler\obj\Debug\Operatorler.exe
+C:\Users\Burak\source\repos\Operatorler\Operatorler\obj\Debug\Operatorler.pdb

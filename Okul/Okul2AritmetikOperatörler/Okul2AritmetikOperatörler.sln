@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Okul2AritmetikOperatörler", "Okul2AritmetikOperatörler\Okul2AritmetikOperatörler.csproj", "{FB4CDC27-F79E-4003-8F2F-7910F9DA605E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB4CDC27-F79E-4003-8F2F-7910F9DA605E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB4CDC27-F79E-4003-8F2F-7910F9DA605E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB4CDC27-F79E-4003-8F2F-7910F9DA605E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB4CDC27-F79E-4003-8F2F-7910F9DA605E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1154B76C-BF2F-434D-BEAD-627F2C6A517A}
+	EndGlobalSection
+EndGlobal

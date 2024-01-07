@@ -1,0 +1,7 @@
+C:\Users\Burak\source\repos\DonguOrnekleri\DonguOrnekleri\obj\Debug\DonguOrnekleri.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\DonguOrnekleri\DonguOrnekleri\obj\Debug\DonguOrnekleri.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\DonguOrnekleri\DonguOrnekleri\bin\Debug\DonguOrnekleri.exe.config
+C:\Users\Burak\source\repos\DonguOrnekleri\DonguOrnekleri\bin\Debug\DonguOrnekleri.exe
+C:\Users\Burak\source\repos\DonguOrnekleri\DonguOrnekleri\bin\Debug\DonguOrnekleri.pdb
+C:\Users\Burak\source\repos\DonguOrnekleri\DonguOrnekleri\obj\Debug\DonguOrnekleri.exe
+C:\Users\Burak\source\repos\DonguOrnekleri\DonguOrnekleri\obj\Debug\DonguOrnekleri.pdb

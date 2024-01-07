@@ -1,0 +1,1 @@
+C:\Users\Burak\source\repos\C#Yeni\UnitTest\ShoppingCart\obj\Debug\ShoppingCart.csproj.CoreCompileInputs.cache

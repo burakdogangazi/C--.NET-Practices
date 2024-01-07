@@ -1,0 +1,10 @@
+C:\Users\Burak\source\repos\OdevOrnekForms\OdevOrnekForms\bin\Debug\OdevOrnekForms.exe.config
+C:\Users\Burak\source\repos\OdevOrnekForms\OdevOrnekForms\bin\Debug\OdevOrnekForms.exe
+C:\Users\Burak\source\repos\OdevOrnekForms\OdevOrnekForms\bin\Debug\OdevOrnekForms.pdb
+C:\Users\Burak\source\repos\OdevOrnekForms\OdevOrnekForms\obj\Debug\OdevOrnekForms.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\OdevOrnekForms\OdevOrnekForms\obj\Debug\OdevOrnekForms.Form1.resources
+C:\Users\Burak\source\repos\OdevOrnekForms\OdevOrnekForms\obj\Debug\OdevOrnekForms.Properties.Resources.resources
+C:\Users\Burak\source\repos\OdevOrnekForms\OdevOrnekForms\obj\Debug\OdevOrnekForms.csproj.GenerateResource.cache
+C:\Users\Burak\source\repos\OdevOrnekForms\OdevOrnekForms\obj\Debug\OdevOrnekForms.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\OdevOrnekForms\OdevOrnekForms\obj\Debug\OdevOrnekForms.exe
+C:\Users\Burak\source\repos\OdevOrnekForms\OdevOrnekForms\obj\Debug\OdevOrnekForms.pdb

@@ -1,0 +1,2 @@
+C:\Users\Burak\source\repos\C#Yeni\NLayeredApp29\Northwind.DataAccsess\obj\Debug\Northwind.DataAccsess.csproj.AssemblyReference.cache
+C:\Users\Burak\source\repos\C#Yeni\NLayeredApp29\Northwind.DataAccsess\obj\Debug\Northwind.DataAccsess.csproj.CoreCompileInputs.cache

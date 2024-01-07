@@ -1,0 +1,7 @@
+C:\Users\Burak\source\repos\Exceptions\Exceptions\bin\Debug\Exceptions.exe.config
+C:\Users\Burak\source\repos\Exceptions\Exceptions\bin\Debug\Exceptions.exe
+C:\Users\Burak\source\repos\Exceptions\Exceptions\bin\Debug\Exceptions.pdb
+C:\Users\Burak\source\repos\Exceptions\Exceptions\obj\Debug\Exceptions.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\Exceptions\Exceptions\obj\Debug\Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\Exceptions\Exceptions\obj\Debug\Exceptions.exe
+C:\Users\Burak\source\repos\Exceptions\Exceptions\obj\Debug\Exceptions.pdb

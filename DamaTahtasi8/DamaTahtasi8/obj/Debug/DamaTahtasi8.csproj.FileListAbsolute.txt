@@ -1,0 +1,10 @@
+C:\Users\Burak\source\repos\C#Yeni\DamaTahtasi8\DamaTahtasi8\bin\Debug\DamaTahtasi8.exe.config
+C:\Users\Burak\source\repos\C#Yeni\DamaTahtasi8\DamaTahtasi8\bin\Debug\DamaTahtasi8.exe
+C:\Users\Burak\source\repos\C#Yeni\DamaTahtasi8\DamaTahtasi8\bin\Debug\DamaTahtasi8.pdb
+C:\Users\Burak\source\repos\C#Yeni\DamaTahtasi8\DamaTahtasi8\obj\Debug\DamaTahtasi8.csproj.AssemblyReference.cache
+C:\Users\Burak\source\repos\C#Yeni\DamaTahtasi8\DamaTahtasi8\obj\Debug\DamaTahtasi8.Form1.resources
+C:\Users\Burak\source\repos\C#Yeni\DamaTahtasi8\DamaTahtasi8\obj\Debug\DamaTahtasi8.Properties.Resources.resources
+C:\Users\Burak\source\repos\C#Yeni\DamaTahtasi8\DamaTahtasi8\obj\Debug\DamaTahtasi8.csproj.GenerateResource.cache
+C:\Users\Burak\source\repos\C#Yeni\DamaTahtasi8\DamaTahtasi8\obj\Debug\DamaTahtasi8.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\C#Yeni\DamaTahtasi8\DamaTahtasi8\obj\Debug\DamaTahtasi8.exe
+C:\Users\Burak\source\repos\C#Yeni\DamaTahtasi8\DamaTahtasi8\obj\Debug\DamaTahtasi8.pdb

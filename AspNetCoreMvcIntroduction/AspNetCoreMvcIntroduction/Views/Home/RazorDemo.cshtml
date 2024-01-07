@@ -1,0 +1,172 @@
+﻿@model AspNetCoreMvcIntroduction.Models.EmployeeListViewModel
+
+@{// Razor Kod bloğu denir
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index2</title>
+</head>
+
+<body>
+
+    <!-- Razor dinamik yapılar ile html sitesi kurmaya işimize yarar.-->
+
+    <p>
+
+        <a asp-aciton="Create"> Create New </a>
+
+
+    </p>
+
+    <table class="table">
+        <thead>
+
+            <tr>
+                <th>
+                    Id
+                </th>
+
+                <th>
+                    FirstName
+                </th>
+
+                <th>
+                    LastName
+                </th>
+
+                <th>
+                    City Id
+                </th>
+            </tr>
+
+
+        </thead>
+
+        <tbody>
+
+            @foreach (var item in Model.Employees)
+            {
+                <tr>
+                    <td>@item.Id</td>
+                    <td>@item.FirstName</td>
+                    <td>@item.LastName</td>
+                    <td>@item.CityId</td>
+                </tr>
+            }
+
+
+        </tbody>
+    </table>
+
+    I am @@home razor sanmasın diye iki tane @@ kullandık
+
+    <p>@DateTime.Now</p>
+
+    @{var date = DateTime.Now - TimeSpan.FromDays(3);}
+
+    <p>3 days ago was @date </p>
+
+    <!-- Razor kod blogğundan faydalandık {}-->
+
+    @{
+        var number = 10;
+
+    }
+
+    <p>@number</p>
+
+    @if (number < 10)
+    {
+        <p>Less than 10</p>
+    }
+
+    else if (number == 10)
+    {
+        <p> Your number is equals to 10</p>
+    }
+
+    else
+    {
+        <p> Your number is greater than 10</p>
+    }
+
+
+    @switch (number)
+    {
+        case 10:
+            <p> Your number is equals to 10</p>
+            break;
+        case 20:
+            <p> Your number is equals to 20</p>
+            break;
+        default:
+            <p> Unknown </p>
+            break;
+
+    }
+
+    @for (int i = 0; i < Model.Employees.Count; i++)
+    {
+        <br>
+        @Model.Employees[i].FirstName
+
+    }
+
+    @{ var counter = 0;}
+    @while (counter < Model.Employees.Count)
+    {
+
+        <br>
+        @Model.Employees[counter].FirstName
+        counter++;
+
+    }
+
+    @{ var counter2 = 0;}
+    @do
+    {
+        <br>
+        @Model.Employees[counter2].FirstName
+        counter2++;
+
+    } while (counter2 < Model.Employees.Count);
+
+    @try
+    {
+
+    }
+    catch (ArgumentNullException argumentNulleException)
+    {
+
+        throw;
+    }
+
+    catch (Exception exception)
+    {
+
+        throw;
+    }
+    
+    finally
+    {
+
+    }
+
+    @using (Html.BeginForm())
+    {
+        <input type="text" id =""name="name" value="" />
+        <button type="submit"></button>
+
+    }
+
+
+
+
+</body>
+
+</html>

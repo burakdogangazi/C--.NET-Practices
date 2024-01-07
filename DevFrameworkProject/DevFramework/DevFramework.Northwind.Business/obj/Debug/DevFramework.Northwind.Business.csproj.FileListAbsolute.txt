@@ -1,0 +1,6 @@
+C:\Users\Burak\source\repos\C#Yeni\DevFrameworkProject\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.Business.dll
+C:\Users\Burak\source\repos\C#Yeni\DevFrameworkProject\DevFramework\DevFramework.Northwind.Business\bin\Debug\DevFramework.Northwind.Business.pdb
+C:\Users\Burak\source\repos\C#Yeni\DevFrameworkProject\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.csproj.AssemblyReference.cache
+C:\Users\Burak\source\repos\C#Yeni\DevFrameworkProject\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\C#Yeni\DevFrameworkProject\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.dll
+C:\Users\Burak\source\repos\C#Yeni\DevFrameworkProject\DevFramework\DevFramework.Northwind.Business\obj\Debug\DevFramework.Northwind.Business.pdb
